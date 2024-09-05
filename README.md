@@ -1,9 +1,1 @@
-# Graph-transformer-for-semantic-labeling
-
-Code for semantic role labeling with graph transformers.
-
-Final project of the "Deep Learning For Natural Language Processing" course at EPFL, Fall 2021.
-
-Group members: Farzad Pourkamali and Babak Rahmani.
-
-Supervised by: Alireza Mohammadshahi
+This project focuses on enhancing natural language inference (NLI) by integrating semantic role labeling (SRL) with graph-encoded transformers. It uses semantic structures to improve transformers' attention mechanisms, aiming to boost performance in tasks such as recognizing textual entailment (RTE). The project compares the graph-transformer model with vanilla transformers, demonstrating improved results on mismatched datasets like Multi-Genre NLI (MNLI). The code provides functionality for SRL parsing, data processing, and transformer training.
